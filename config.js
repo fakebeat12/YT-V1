@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['+1 (775) 403-5736','6289505165400'] // Put your number here //owner eval
-global.kontak = ['+1 (775) 403-5736','6289505165400'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Jlaf8euEFM153MqUK4JrjT', ''] // ganti jadi group lu
+global.owner = ['+1 (775) 403-5736','6282150277960'] // Put your number here //owner eval
+global.kontak = ['+1 (775) 403-5736','6282150277960'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['+1 (775) 403-5736','6282150277960','6281245146459'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -53,14 +53,14 @@ namakontak2 = 'AlyaaXzy 2'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By WAN' // ganti aja
+global.author = 'JUAN' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
+bc = 'WWANZ' //AlyaaXy Broadcast
 footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+namabot = 'BOT SEWA'
+namalu = 'WANZ'
 
 
 // 
